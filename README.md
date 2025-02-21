@@ -3,7 +3,7 @@
 
 **Adress:** 371-0857, Gunmaken, Maebashishi, Takaimachi, 1-34-3 West Cote E
 
-**Email:** ayeshasubha700@gmail.com
+**Email:** [ayeshasubha700@gmail.com](mailto:ayeshasubha700@gmail.com)
 
 ---
 
