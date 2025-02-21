@@ -7,12 +7,16 @@
 
 **Email:** [ayeshasubha700@gmail.com](mailto:ayeshasubha700@gmail.com)
 
+
 ---
+
 
 ## **Objective**
 I am a diligent, efficient, ambitious, and sociable professional with proven in prioritizing work and meeting tight deadlines. I am challenging position where I can leverage my skills and experience to contribute to organizational growth and success.
 
+
 ---
+
 
 ## **Skills**
 - Active Listening
@@ -25,19 +29,24 @@ I am a diligent, efficient, ambitious, and sociable professional with proven in 
 
 ---
 
+
 ## **Education**
 ### **Higher National Diploma in Management**
 I have completed the **Higher National Diploma in Management* at the **Advanced Technological Institute of Dehiwala** in **2013**.
+
 
 ### **GCE A-Levels**
 **MR/Akuressa Maha Vidyalaya, Akuressa** *(2010)*
 -Achieved: 2B, 1C
 
+
 ### **GCE O-Levels**
 **MR/Akuress Maha Vidyalaya, Akuressa** *(2006)
 -Achieved: 1A, 3B, 5C, 1S
 
+
 ---
+
 
 ## **Experience**
 ### **Chief Executive Officer**
@@ -52,7 +61,9 @@ I have completed the **Higher National Diploma in Management* at the **Advanced 
 - Implement a feedback system toimprove business performance.
 - Manage inventory, monitor revenues, and adjust procedures and pricing as needed.
 
+
 ---
+
 
 ## **Personal Information**
 - **Date of Birth:** August 23, 1990
@@ -60,18 +71,23 @@ I have completed the **Higher National Diploma in Management* at the **Advanced 
 - **Children:** One Child
 - **Nationality:** Sri Lankan
 
+
 ---
+
 
 ## **References**
 **Akane Hashimotho**
 *School principal, Asakusa International Language School, Ibaraki*
 +81 9035745922
 
+
 **H.D.D.D. Hathurusinghe**
 *Industrial Engineer, Gunma, Japan*
 +81 7091951511
 
+
 ---
+
 
 *Thank you for visiting my GitHub profile! Feel free to reach out for collaboration or opportunities.*
 
