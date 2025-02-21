@@ -1,4 +1,6 @@
 # Ayesha Subhashanee Hallala Hewage
+![Profile Photo](https://github.com/Ayesha-Subhashanee/Ayesha-CV/blob/main/profile%20photo.JPG)
+
 **Mobile:** +817091333351
 
 **Adress:** 371-0857, Gunmaken, Maebashishi, Takaimachi, 1-34-3 West Cote E
