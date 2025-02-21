@@ -9,13 +9,11 @@
 ---
 
 ## **Objective**
-
 I am a diligent, efficient, ambitious, and sociable professional with proven in prioritizing work and meeting tight deadlines. I am challenging position where I can leverage my skills and experience to contribute to organizational growth and success.
 
 ---
 
 ## **Skills**
-
 - Active Listening
 - Communication
 - Customer Service
@@ -27,7 +25,6 @@ I am a diligent, efficient, ambitious, and sociable professional with proven in 
 ---
 
 ## **Education**
-
 ### **Higher National Diploma in Management**
 I have completed the **Higher National Diploma in Management* at the **Advanced Technological Institute of Dehiwala** in **2013**.
 
@@ -42,7 +39,6 @@ I have completed the **Higher National Diploma in Management* at the **Advanced 
 ---
 
 ## **Experience**
-
 ### **Chief Executive Officer**
 **As Trading LLC, Maebashi, Japan** *(may 2019 - present)*
 
@@ -58,7 +54,6 @@ I have completed the **Higher National Diploma in Management* at the **Advanced 
 ---
 
 ## **Personal Information**
-
 - **Date of Birth:** August 23, 1990
 - **Civil Status:** Married
 - **Children:** One Child
@@ -67,7 +62,6 @@ I have completed the **Higher National Diploma in Management* at the **Advanced 
 ---
 
 ## **References**
-
 **Akane Hashimotho**
 *School principal, Asakusa International Language School, Ibaraki*
 +81 9035745922
